@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล: ปัณณวัฒน์ วงษ์แก้วจันทร์
 - รหัสนักศึกษา: 680610694
-- <strong>GITHUB PAGE URL :  https://mingsa405-lgtm.github.io/lab03/ </strong>
+- <strong>GITHUB PAGE URL :  https://cpe207-2569.github.io/lab03-mingsa405-lgtm/</strong>
